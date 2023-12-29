@@ -1,0 +1,8 @@
+body {
+	background-color:hsl(0, 0%, 10%);
+	color:  hsl(206, 64%, 98%);
+	margin: 0.75em;
+	font-family: 'Overpass', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
+    Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+	accent-color: hsl(15, 100%, 55%);
+}
